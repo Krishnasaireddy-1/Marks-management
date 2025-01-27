@@ -5,9 +5,7 @@
 <body>
     <h1>Marks Management System</h1>
     <p>This project demonstrates managing student data using API endpoints and a React-based frontend. It showcases the use of <strong>Axios</strong> for making HTTP requests and <strong>Express.js</strong> for creating a backend server.</p>
-
     <h2>API Endpoints</h2>
-
     <h3>1. Retrieve Student Data</h3>
     <ul>
         <li><strong>Endpoint:</strong> <code>GET /data/:id</code></li>
@@ -37,7 +35,6 @@
             </ul>
         </li>
     </ul>
-
     <h3>2. Add or Update Student Data</h3>
     <ul>
         <li><strong>Endpoint:</strong> <code>POST /data/:id</code></li>
@@ -74,21 +71,18 @@
             </ul>
         </li>
     </ul>
-
     <h2>Frontend Functionality</h2>
     <p>The frontend is built using React and allows the user to:</p>
     <ul>
         <li>Fetch student data by entering their ID and clicking the "Fetch Data" button.</li>
         <li>Add or update student data by providing their ID, name, and marks, and clicking the "Send Data" button.</li>
     </ul>
-
     <h2>Technologies Used</h2>
     <ul>
         <li><strong>Frontend:</strong> React, Axios</li>
         <li><strong>Backend:</strong> Express.js, Node.js</li>
         <li><strong>Data Storage:</strong> JSON file</li>
     </ul>
-
     <h2>How to Run the Project</h2>
     <ol>
         <li>Clone the repository.</li>
@@ -112,11 +106,9 @@ npm start
             </pre>
         </li>
     </ol>
-
     <h2>Project Demo</h2>
     <p>Below is a screenshot of the project:</p>
     <img src="image.png" alt="Project UI" width="600">
-
     <h2>License</h2>
     <p>This project is open-source and can be freely used and modified.</p>
 </body>
