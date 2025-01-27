@@ -107,8 +107,7 @@ npm start
         </li>
     </ol>
     <h2>Project Demo</h2>
-    <img src="https://ibb.co/zV3T1HW" alt="Project UI" width="600">
-    <h2>License</h2>
+[![Screenshot-2025-01-27-231135.png](https://i.postimg.cc/XvBJN82G/Screenshot-2025-01-27-231135.png)](https://postimg.cc/06xxcp1P)<h2>License</h2>
     <p>This project is open-source and can be freely used and modified.</p>
 </body>
 </html>
