@@ -1,11 +1,9 @@
 # Marks-management
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Student Marks Management System</title>
-</head>
+
 <body>
-    <h1>Student Marks Management System</h1>
+    <h1>Marks Management System</h1>
     <p>This project demonstrates managing student data using API endpoints and a React-based frontend. It showcases the use of <strong>Axios</strong> for making HTTP requests and <strong>Express.js</strong> for creating a backend server.</p>
 
     <h2>API Endpoints</h2>
@@ -52,7 +50,7 @@
         <li><strong>Request Body:</strong>
             <pre>
 {
-    "name": "Harshu",
+    "name": "krishna",
     "marks": 85
 }
             </pre>
